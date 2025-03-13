@@ -1,2 +1,2 @@
-let union: 'string' | 'number';
+let union: string | number;
 let literal: 'enable' | 'disable';
